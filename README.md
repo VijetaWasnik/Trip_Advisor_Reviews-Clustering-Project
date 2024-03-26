@@ -13,7 +13,8 @@
 <h3>Data Sources</h3>
 - The dataset used for this project consists of customer reviews from TripAdvisor.
 <br>
-![Data Image](https://github.com/VijetaWasnik/Trip_Advisor_Reviews-Clustering-Project/raw/main/images/Screenshot%202024-03-26%20191358.png)
+![Alt text](https://raw.githubusercontent.com/VijetaWasnik/Trip_Advisor_Reviews-Clustering-Project/main/images/Screenshot%202024-03-26%20191358.png)
+
 
 <br>
 - Data preprocessing and model training are performed on this dataset to cluster reviews.
