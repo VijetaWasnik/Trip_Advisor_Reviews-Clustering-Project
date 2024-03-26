@@ -14,7 +14,8 @@
 - The dataset used for this project consists of customer reviews from TripAdvisor.
 <br>
 images/Screenshot 2024-03-26 191358.png
-![Alt text](https://raw.githubusercontent.com/VijetaWasnik/Trip_Advisor_Reviews-Clustering-Project/main/images/Screenshot 2024-03-26 191358.png)
+![Data Image](https://github.com/VijetaWasnik/Trip_Advisor_Reviews-Clustering-Project/raw/main/images/Screenshot%202024-03-26%20191358.png)
+
 
 
 <br>
